@@ -212,3 +212,20 @@ Explique aplicações práticas de [tema] no mercado de trabalho.
 ## 8. Conclusão
 
 O uso do NotebookLM demonstrou como a Inteligência Artificial pode auxiliar na organização do conhecimento, na síntese de conteúdos e na aprendizagem ativa. O estudo de Banco de Dados Relacionais e SQL permitiu consolidar conhecimentos essenciais para a formação na área de tecnologia e ampliar a compreensão sobre armazenamento e manipulação de dados.
+
+## Evidências do Uso do NotebookLM
+
+Durante o desenvolvimento deste projeto, utilizei o NotebookLM como ferramenta de aprendizagem ativa para aprofundar meus conhecimentos em Banco de Dados Relacionais e SQL.
+
+### Atividades realizadas no NotebookLM
+
+- Análise de fontes técnicas sobre SQL e bancos de dados relacionais;
+- Geração de resumos automáticos;
+- Comparação entre MySQL e PostgreSQL;
+- Criação de perguntas para revisão do conteúdo;
+- Organização dos principais conceitos em formato de glossário;
+- Desenvolvimento de prompts reutilizáveis para estudos futuros.
+
+### Aprendizados Obtidos
+
+O NotebookLM facilitou a compreensão dos conceitos estudados, permitindo reunir diferentes fontes de conhecimento em um único ambiente e obter respostas contextualizadas para apoiar o processo de aprendizagem.
