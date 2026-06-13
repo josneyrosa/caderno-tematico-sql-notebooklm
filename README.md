@@ -229,3 +229,17 @@ Durante o desenvolvimento deste projeto, utilizei o NotebookLM como ferramenta d
 ### Aprendizados Obtidos
 
 O NotebookLM facilitou a compreensão dos conceitos estudados, permitindo reunir diferentes fontes de conhecimento em um único ambiente e obter respostas contextualizadas para apoiar o processo de aprendizagem.
+
+## Capturas de Tela
+
+### Fontes Utilizadas no NotebookLM
+
+![Fontes](imagens/fontes.png)
+
+### Exemplo de Prompt
+
+![Prompt](imagens/prompt1.png)
+
+### Exemplo de Resposta Gerada
+
+![Resposta](imagens/prompt2.png)
